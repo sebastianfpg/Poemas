@@ -10,7 +10,3 @@ Y guardar mi progresillo
 
 Ahora cree una branch
 Y estoy editando en ella
-Cambio en linea 13
-
-Cambio en linea 15 desde main, la anterior es desde second_branch
-Cambio en linea 14 desde main, la anterior es desde second_branch
